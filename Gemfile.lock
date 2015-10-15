@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cuba (3.4.0)
+      rack
+    rack (1.6.4)
+    rack-protection (1.5.3)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cuba (= 3.4.0)
+  rack-protection (= 1.5.3)
+
+BUNDLED WITH
+   1.10.5
